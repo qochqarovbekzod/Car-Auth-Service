@@ -1,0 +1,3 @@
+[submodule "Car-Protos"]
+	path = Car-Protos
+	url = git@github.com:qochqarovbekzod/Car-Protos.git

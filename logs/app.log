@@ -1,0 +1,407 @@
+{"time":"2024-08-10T14:49:27.147049803+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T14:49:27.147330763+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T14:49:39.476733503+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T14:49:39.477005919+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T14:53:19.633646411+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T14:53:19.633732644+05:00","level":"ERROR","msg":"listener error: ","!BADKEY":"listen tcp :50050: bind: address already in use"}
+{"time":"2024-08-10T14:55:52.931234317+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T14:55:52.931481968+05:00","level":"ERROR","msg":"listener error: ","!BADKEY":"listen tcp :50050: bind: address already in use"}
+{"time":"2024-08-10T14:56:06.483679794+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T14:56:06.483751344+05:00","level":"ERROR","msg":"listener error: ","!BADKEY":"listen tcp :50050: bind: address already in use"}
+{"time":"2024-08-10T14:57:03.308423677+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T14:57:03.308486918+05:00","level":"ERROR","msg":"listener error: ","!BADKEY":"listen tcp :50050: bind: address already in use"}
+{"time":"2024-08-10T15:03:39.998369715+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:03:39.998511951+05:00","level":"ERROR","msg":"listener error: ","!BADKEY":"listen tcp :50050: bind: address already in use"}
+{"time":"2024-08-10T15:03:47.940261767+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:03:47.940385208+05:00","level":"ERROR","msg":"listener error: ","!BADKEY":"listen tcp :50050: bind: address already in use"}
+{"time":"2024-08-10T15:04:08.358526478+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:04:08.358621342+05:00","level":"ERROR","msg":"listener error: ","!BADKEY":"listen tcp :50050: bind: address already in use"}
+{"time":"2024-08-10T15:04:11.51916893+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:04:11.519309273+05:00","level":"ERROR","msg":"listener error: ","!BADKEY":"listen tcp :50050: bind: address already in use"}
+{"time":"2024-08-10T15:05:41.071413914+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:05:41.071562707+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:09:36.06299647+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:09:36.06311091+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:12:01.8188436+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:12:01.819094974+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:12:05.760022684+05:00","level":"ERROR","msg":"Error registering user","error":"pq: syntax error at or near \"VALUES\""}
+{"time":"2024-08-10T15:12:05.760070295+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:12:05.760083678+05:00","level":"ERROR","msg":"Error registering","err":"pq: syntax error at or near \"VALUES\""}
+{"time":"2024-08-10T15:13:22.114018065+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:13:22.11419885+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:13:26.49015397+05:00","level":"ERROR","msg":"Error registering user","error":"pq: syntax error at or near \")\""}
+{"time":"2024-08-10T15:13:26.49028616+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:13:26.490306775+05:00","level":"ERROR","msg":"Error registering","err":"pq: syntax error at or near \")\""}
+{"time":"2024-08-10T15:13:41.718031358+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:13:41.718258108+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:13:44.092674802+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:13:44.092742235+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:13:44.092753737+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:20:53.163586136+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:20:53.163903653+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:20:57.631772085+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:20:57.631832905+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:20:57.631843937+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:22:38.453936026+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:22:38.453985641+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:22:38.453995602+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:24:25.55728856+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:24:25.557526772+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:24:29.126918043+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:24:29.126971391+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:24:29.126986562+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:25:41.452295271+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:25:41.452514466+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:25:45.899104314+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:25:45.899162635+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:25:45.899177267+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:26:33.670581253+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:26:33.670760201+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:26:36.565524722+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:26:36.565572977+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:26:36.565587141+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:27:08.274829964+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:27:08.274936756+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:27:12.204782015+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:27:12.204830716+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:27:12.204844378+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:27:41.192514008+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:27:41.192774722+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:27:43.891291082+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:27:43.891338788+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:27:43.891349647+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:28:03.841201226+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:28:03.841457596+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:28:05.243689641+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:28:05.24373801+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:28:05.243748625+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:31:55.30644972+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:31:55.306676273+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:32:48.028024515+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T15:32:48.028307482+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T15:32:58.202799425+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T15:32:58.202851312+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T15:32:58.202861261+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T18:59:22.754532806+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T18:59:22.75469108+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T18:59:32.715079263+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T18:59:32.715110646+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T18:59:32.715115046+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:02:30.695756128+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:02:30.695860994+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:02:34.962553158+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:02:34.962586898+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:02:34.962594107+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:02:53.612830047+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:02:53.612944337+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:02:53.612952405+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"password\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:06:52.185048421+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:06:52.185182521+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:06:58.730696342+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:06:58.730742181+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:06:58.730746571+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:08:17.885211002+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:08:17.885389389+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:08:25.056774317+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:08:25.057077949+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:08:25.057089304+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:09:09.778894916+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:09:09.778963555+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:09:13.89808025+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:09:13.898129221+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:09:13.898134542+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:09:15.84932812+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:09:15.849566786+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:09:15.849573984+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:05.167903211+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:05.168803356+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:11:05.169004098+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:05.918839539+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:05.918876516+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:11:05.918881877+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:06.067617363+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:06.067639784+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:11:06.067644052+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:06.26537404+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:06.265394427+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:11:06.26556668+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:06.433764012+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:06.43378589+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:11:06.433790033+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:23.450468391+05:00","level":"ERROR","msg":"Error registering user","error":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:11:23.450521574+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-10T19:11:23.450534607+05:00","level":"ERROR","msg":"Error registering","err":"pq: column \"phone_number\" of relation \"users\" does not exist"}
+{"time":"2024-08-10T19:12:04.990374063+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:12:04.990436799+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:12:09.553298171+05:00","level":"INFO","msg":"Registered"}
+{"time":"2024-08-10T19:12:41.92139477+05:00","level":"ERROR","msg":"Error logging in user","error":"pq: column \"fullname\" does not exist"}
+{"time":"2024-08-10T19:12:41.92179797+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:12:41.921987976+05:00","level":"ERROR","msg":"Error logging in","err":"pq: column \"fullname\" does not exist"}
+{"time":"2024-08-10T19:13:24.409848988+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:13:24.40999427+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:13:28.277571878+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:13:28.277609754+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:13:28.277621552+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:17:52.821936149+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:17:52.822033747+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:17:56.547557334+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:17:56.547593387+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:17:56.547605284+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:01.567412858+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:01.567451976+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:18:01.567457543+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:01.72500562+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:01.725036555+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:18:01.725042281+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:01.883906786+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:01.883937716+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:18:01.883942886+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:02.032321931+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:02.032349319+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:18:02.032353519+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:02.177548161+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:02.177582398+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:18:02.177588188+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:02.323016476+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:18:02.323063088+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:18:02.323069341+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:23:28.715828308+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:23:28.715897499+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:23:32.831445903+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:23:32.831473575+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:23:32.831482382+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:23:38.291840204+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:23:38.291898391+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:23:38.291907056+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:24:40.640741346+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:24:40.64084463+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:24:43.24779837+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:24:43.247831144+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:24:43.247844647+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:25:04.469350707+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:25:04.470094268+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:25:04.470103245+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:25:05.030642614+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:25:05.030679917+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:25:05.030686202+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:25:36.449844026+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:25:36.449896244+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:25:39.261729972+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:25:39.261762243+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:25:39.261774011+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:25:42.945610442+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:25:42.94563755+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:25:42.945642388+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:26:23.349662858+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:26:23.349785881+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:26:30.678553106+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:26:30.678602191+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:26:30.678612599+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:26:46.107115867+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:26:46.107242018+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:26:46.298473547+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:26:46.298626003+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:26:46.29865179+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:26:54.634231898+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:26:54.634275504+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:26:54.634940137+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:29:26.830780881+05:00","level":"INFO","msg":"Registered"}
+{"time":"2024-08-10T19:29:37.247811702+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:29:37.248445638+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:29:37.249059156+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:30:01.162605396+05:00","level":"ERROR","msg":"Invalid credentials"}
+{"time":"2024-08-10T19:30:12.011372811+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:30:12.011441759+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:30:12.012589717+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:30:27.438613731+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:30:27.439122612+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:30:27.440182727+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:32:40.211956899+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:32:40.212748+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:32:40.213475207+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T19:57:46.724828909+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T19:57:46.724955209+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T19:58:17.165831897+05:00","level":"INFO","msg":"Registered"}
+{"time":"2024-08-10T19:58:31.387514655+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-10T19:58:31.387546945+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-10T19:58:31.387567425+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-10T20:00:19.927607017+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:00:19.928361436+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:00:23.484426362+05:00","level":"ERROR","msg":"Error generating JWT tokens","err":"key is of invalid type"}
+{"time":"2024-08-10T20:01:59.643816749+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:01:59.64383651+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:02:05.673534517+05:00","level":"ERROR","msg":"Error generating JWT tokens","err":"key is of invalid type"}
+{"time":"2024-08-10T20:02:37.589080593+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:02:37.58919442+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:02:41.207040785+05:00","level":"ERROR","msg":"Error creating refresh token"}
+{"time":"2024-08-10T20:02:41.207071487+05:00","level":"ERROR","msg":"Error creating refresh token","err":"HMAC signing method"}
+{"time":"2024-08-10T20:04:54.56300918+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:04:54.562999127+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:04:57.003311969+05:00","level":"ERROR","msg":"Error creating refresh token"}
+{"time":"2024-08-10T20:04:57.003352447+05:00","level":"ERROR","msg":"Error creating refresh token","err":"HMAC signing method"}
+{"time":"2024-08-10T20:05:45.244047402+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:05:45.244188661+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:05:48.255219323+05:00","level":"ERROR","msg":"Error creating refresh token"}
+{"time":"2024-08-10T20:05:48.255278928+05:00","level":"ERROR","msg":"Error creating refresh token","err":"HMAC signing method"}
+{"time":"2024-08-10T20:06:38.364221492+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:06:38.364336466+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:06:41.660772851+05:00","level":"ERROR","msg":"Error creating refresh token"}
+{"time":"2024-08-10T20:06:41.660806528+05:00","level":"ERROR","msg":"Error creating refresh token","err":"failed to parse token: %!w(<nil>)"}
+{"time":"2024-08-10T20:08:52.897395066+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:08:52.897492949+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:08:56.705686935+05:00","level":"ERROR","msg":"Error creating refresh token"}
+{"time":"2024-08-10T20:08:56.705715248+05:00","level":"ERROR","msg":"Error creating refresh token","err":"pq: value too long for type character varying(255)"}
+{"time":"2024-08-10T20:10:14.603477487+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:10:14.603585115+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:10:17.447081956+05:00","level":"INFO","msg":"Registered"}
+{"time":"2024-08-10T20:10:21.205875022+05:00","level":"ERROR","msg":"Error creating refresh token"}
+{"time":"2024-08-10T20:10:21.205926865+05:00","level":"ERROR","msg":"Error creating refresh token","err":"pq: null value in column \"user_id\" of relation \"refresh_tokens\" violates not-null constraint"}
+{"time":"2024-08-10T20:12:30.441514616+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:12:30.441610536+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:13:21.465686422+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:13:21.465877802+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:13:24.62326046+05:00","level":"ERROR","msg":"Error creating refresh token"}
+{"time":"2024-08-10T20:13:24.623287399+05:00","level":"ERROR","msg":"Error creating refresh token","err":"pq: null value in column \"user_id\" of relation \"refresh_tokens\" violates not-null constraint"}
+{"time":"2024-08-10T20:22:50.003474221+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:22:50.003669858+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:22:54.747738541+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T20:23:42.551916991+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T20:23:42.551948408+05:00","level":"ERROR","msg":"Refresh token"}
+{"time":"2024-08-10T20:25:12.515463356+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:25:12.515561484+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:25:15.703878579+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T20:25:15.703903819+05:00","level":"ERROR","msg":"Refresh token"}
+{"time":"2024-08-10T20:26:16.80793132+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:26:16.807924697+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:26:19.278144586+05:00","level":"INFO","msg":"Authorization"}
+{"time":"2024-08-10T20:26:19.278178258+05:00","level":"ERROR","msg":"Refresh token"}
+{"time":"2024-08-10T20:26:48.079468764+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:26:48.079574238+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:26:50.764909348+05:00","level":"INFO","msg":"Authorization"}
+{"time":"2024-08-10T20:26:50.764945441+05:00","level":"ERROR","msg":"Refresh token"}
+{"time":"2024-08-10T20:27:22.305850066+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:27:22.305879864+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:27:25.507219473+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T20:27:25.507286176+05:00","level":"ERROR","msg":"Error extracting claims","err":"Token used before issued"}
+{"time":"2024-08-10T20:32:11.343434177+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:32:11.343538367+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:32:14.339986919+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T20:32:14.340071348+05:00","level":"ERROR","msg":"Error extracting claims","err":"Token used before issued"}
+{"time":"2024-08-10T20:33:54.782100594+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:33:54.782223655+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:33:58.63119404+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T20:33:58.631280402+05:00","level":"ERROR","msg":"Error extracting claims","err":"Token used before issued"}
+{"time":"2024-08-10T20:37:46.865614431+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:37:46.865723269+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:37:51.824256743+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T20:37:51.824339137+05:00","level":"ERROR","msg":"Error extracting claims","err":"Token used before issued"}
+{"time":"2024-08-10T20:39:12.081864304+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:39:12.081930593+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:39:16.028045223+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T20:39:16.028141487+05:00","level":"ERROR","msg":"Error extracting claims","err":"Token used before issued"}
+{"time":"2024-08-10T20:54:47.886922404+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:54:47.886977827+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:54:53.289373014+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T20:54:53.291315574+05:00","level":"ERROR","msg":"Error extracting claims","err":"json: cannot unmarshal object into Go value of type jwt.Claims"}
+{"time":"2024-08-10T20:56:03.678137737+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:56:03.67820693+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:56:07.342295804+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T20:56:07.343901358+05:00","level":"ERROR","msg":"Error extracting claims","err":"json: cannot unmarshal object into Go value of type jwt.Claims"}
+{"time":"2024-08-10T20:56:50.636688486+05:00","level":"ERROR","msg":"Error generating JWT tokens","err":"key is of invalid type"}
+{"time":"2024-08-10T20:58:29.700161371+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:58:29.700230153+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:58:34.382871409+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T20:58:51.804184979+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T20:58:51.80600111+05:00","level":"ERROR","msg":"Error extracting claims","err":"json: cannot unmarshal object into Go value of type jwt.Claims"}
+{"time":"2024-08-10T20:59:53.780397375+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T20:59:53.780543941+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T20:59:57.824431573+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T20:59:57.824633383+05:00","level":"INFO","msg":"Refresh Token rpc method started"}
+{"time":"2024-08-10T20:59:57.827056441+05:00","level":"ERROR","msg":"Error refreshing token","error":"pq: column \"refresh_token\" does not exist"}
+{"time":"2024-08-10T20:59:57.827088317+05:00","level":"ERROR","msg":"Failed refresh token","error":"pq: column \"refresh_token\" does not exist"}
+{"time":"2024-08-10T20:59:57.827094733+05:00","level":"ERROR","msg":"Error refreshing token","err":"pq: column \"refresh_token\" does not exist"}
+{"time":"2024-08-10T21:03:03.204800481+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T21:03:03.204955233+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T21:03:07.291628774+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T21:03:07.291829572+05:00","level":"INFO","msg":"Refresh Token rpc method started"}
+{"time":"2024-08-10T21:03:07.299670008+05:00","level":"ERROR","msg":"Error refreshing token","error":"pq: column \"delete_at\" does not exist"}
+{"time":"2024-08-10T21:03:07.299710747+05:00","level":"ERROR","msg":"Failed refresh token","error":"pq: column \"delete_at\" does not exist"}
+{"time":"2024-08-10T21:03:07.299719483+05:00","level":"ERROR","msg":"Error refreshing token","err":"pq: column \"delete_at\" does not exist"}
+{"time":"2024-08-10T21:03:22.041205628+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T21:03:22.04137748+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T21:03:24.477003512+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T21:03:24.477233908+05:00","level":"INFO","msg":"Refresh Token rpc method started"}
+{"time":"2024-08-10T21:03:24.480046969+05:00","level":"ERROR","msg":"Error refreshing token","error":"pq: column \"deleted_at\" does not exist"}
+{"time":"2024-08-10T21:03:24.480082988+05:00","level":"ERROR","msg":"Failed refresh token","error":"pq: column \"deleted_at\" does not exist"}
+{"time":"2024-08-10T21:03:24.48009081+05:00","level":"ERROR","msg":"Error refreshing token","err":"pq: column \"deleted_at\" does not exist"}
+{"time":"2024-08-10T21:04:32.283254843+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T21:04:32.283314674+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T21:04:38.846726271+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T21:04:38.850872283+05:00","level":"INFO","msg":"Refresh Token rpc method started"}
+{"time":"2024-08-10T21:04:38.857465969+05:00","level":"ERROR","msg":"Error refreshing token","error":"sql: no rows in result set"}
+{"time":"2024-08-10T21:04:38.8574989+05:00","level":"ERROR","msg":"Failed refresh token","error":"sql: no rows in result set"}
+{"time":"2024-08-10T21:04:38.857507265+05:00","level":"ERROR","msg":"Error refreshing token","err":"sql: no rows in result set"}
+{"time":"2024-08-10T21:04:55.680008479+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:05:51.732551153+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T21:05:51.736292596+05:00","level":"INFO","msg":"Refresh Token rpc method started"}
+{"time":"2024-08-10T21:05:51.736882509+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T21:06:27.185987582+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T21:06:27.186124877+05:00","level":"INFO","msg":"Refresh Token rpc method started"}
+{"time":"2024-08-10T21:06:27.186782475+05:00","level":"ERROR","msg":"Error refreshing token","error":"sql: no rows in result set"}
+{"time":"2024-08-10T21:06:27.186826361+05:00","level":"ERROR","msg":"Failed refresh token","error":"sql: no rows in result set"}
+{"time":"2024-08-10T21:06:27.186832633+05:00","level":"ERROR","msg":"Error refreshing token","err":"sql: no rows in result set"}
+{"time":"2024-08-10T21:07:04.125295658+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T21:07:04.125748434+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T21:07:06.715539686+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:07:27.739076525+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T21:07:27.740527196+05:00","level":"INFO","msg":"Refresh Token rpc method started"}
+{"time":"2024-08-10T21:07:27.747702705+05:00","level":"INFO","msg":"Refreshing token"}
+{"time":"2024-08-10T21:07:47.167866049+05:00","level":"INFO","msg":"Logged out"}
+{"time":"2024-08-10T21:07:47.167905057+05:00","level":"ERROR","msg":"Refresh token"}
+{"time":"2024-08-10T21:09:48.32341927+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-10T21:09:48.323487183+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-10T21:09:55.239174226+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:09:59.413445923+05:00","level":"INFO","msg":"Logged out"}
+{"time":"2024-08-10T21:09:59.414821235+05:00","level":"INFO","msg":"Refresh token"}
+{"time":"2024-08-10T21:11:47.422051768+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:50.226815829+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:50.376940237+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:50.520310111+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:50.681160058+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:50.832223478+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:50.96767796+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:51.145287963+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:51.703681003+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:51.836236119+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:52.006496438+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:52.154355113+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:52.337343436+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:52.513273045+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:52.691717714+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:52.890730217+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:53.07146137+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:53.248495876+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:53.440424666+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:53.640173389+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:11:54.856886306+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:01.26992769+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:01.416790477+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:01.586914723+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:01.736442736+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:01.904798314+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:02.053875244+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:02.215816014+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:02.384802695+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:02.567875977+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:02.740734399+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:02.902014719+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:03.078545077+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:03.246865591+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:03.417510637+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:03.572762791+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:03.736310149+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:03.908360843+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:04.103350382+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:04.262295964+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:04.457211521+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-10T21:12:04.637266202+05:00","level":"INFO","msg":"Logged in"}
