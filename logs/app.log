@@ -405,3 +405,98 @@
 {"time":"2024-08-10T21:12:04.262295964+05:00","level":"INFO","msg":"Logged in"}
 {"time":"2024-08-10T21:12:04.457211521+05:00","level":"INFO","msg":"Logged in"}
 {"time":"2024-08-10T21:12:04.637266202+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-12T10:35:31.841810418+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-12T10:35:31.841917156+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-12T21:17:38.946709044+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-12T21:17:38.946822388+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-12T21:18:13.86438912+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T09:22:22.432568196+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-13T09:22:22.432652052+05:00","level":"ERROR","msg":"listener error: ","!BADKEY":"listen tcp :50050: bind: address already in use"}
+{"time":"2024-08-13T09:22:28.022875368+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-13T09:22:28.023032251+05:00","level":"ERROR","msg":"listener error: ","!BADKEY":"listen tcp :50050: bind: address already in use"}
+{"time":"2024-08-13T09:23:17.310165143+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-13T09:23:17.310613555+05:00","level":"ERROR","msg":"listener error: ","!BADKEY":"listen tcp :50050: bind: address already in use"}
+{"time":"2024-08-13T09:28:56.370707329+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-13T09:28:56.370882186+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-13T09:30:18.562647873+05:00","level":"INFO","msg":"Registered"}
+{"time":"2024-08-13T09:30:43.262424157+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T10:01:39.60499838+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T10:36:52.681974512+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T11:07:59.183917304+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T11:22:07.670996188+05:00","level":"ERROR","msg":"Error registering user","error":"pq: duplicate key value violates unique constraint \"users_email_key\""}
+{"time":"2024-08-13T11:22:07.671053327+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-13T11:22:07.671067756+05:00","level":"ERROR","msg":"Error registering","err":"pq: duplicate key value violates unique constraint \"users_email_key\""}
+{"time":"2024-08-13T11:22:15.257515545+05:00","level":"INFO","msg":"Registered"}
+{"time":"2024-08-13T11:25:38.909455057+05:00","level":"ERROR","msg":"Error registering user","error":"pq: duplicate key value violates unique constraint \"users_email_key\""}
+{"time":"2024-08-13T11:25:38.909528424+05:00","level":"ERROR","msg":"Error registering"}
+{"time":"2024-08-13T11:25:38.909544436+05:00","level":"ERROR","msg":"Error registering","err":"pq: duplicate key value violates unique constraint \"users_email_key\""}
+{"time":"2024-08-13T11:25:56.174144534+05:00","level":"INFO","msg":"Registered"}
+{"time":"2024-08-13T11:26:40.392066046+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:26:40.392151493+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:28:45.348921781+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:28:45.348981545+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:28:48.644635657+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:28:48.644690728+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:28:49.925728491+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:28:49.925775763+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:29:08.466582001+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:29:08.466628+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:29:08.634356774+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:29:08.634408036+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:29:08.761673021+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:29:08.761720926+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:29:09.678950461+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:29:09.678997148+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:29:45.744980384+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-13T11:29:45.745208976+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-13T11:29:49.756146034+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:29:49.756194389+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:31:57.750377198+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:31:57.750430997+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:33:26.47381949+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:33:26.47387791+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:34:26.107436167+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-13T11:34:26.107619013+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-13T11:34:28.998865324+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:34:28.998913159+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:34:37.901753607+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:34:37.901807902+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:35:15.680015965+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:35:15.680093577+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:35:32.396551199+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:35:32.39661788+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:35:36.909190299+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:35:36.909244924+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:36:17.094469575+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:36:17.094576191+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:37:37.574844706+05:00","level":"ERROR","msg":"Error updating user profile","error":"pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:37:37.574913391+05:00","level":"ERROR","msg":"Error updating user profile"}
+{"time":"2024-08-13T11:38:24.405135159+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T11:41:00.192200345+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-13T11:41:00.192551125+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-13T11:41:49.199109702+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T13:34:24.020781129+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T14:45:30.670355793+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T15:35:14.678134223+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T16:06:59.902706369+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T16:41:34.986332203+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T17:31:33.143433826+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T17:43:28.382512337+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T18:15:32.218654779+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T18:37:06.003113251+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T19:07:33.053083129+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T20:14:12.238202306+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-13T20:14:12.23835144+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-13T20:14:55.196297678+05:00","level":"ERROR","msg":"Invalid credentials"}
+{"time":"2024-08-13T20:15:18.269348707+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-13T20:48:43.494790668+05:00","level":"INFO","msg":"Logged in"}
+{"time":"2024-08-14T13:48:39.897115384+05:00","level":"INFO","msg":"server is running","port:":":8081"}
+{"time":"2024-08-14T13:48:39.897347895+05:00","level":"INFO","msg":"Starting gRPC server on port: ","PORT":":50050"}
+{"time":"2024-08-14T13:49:15.6055862+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-14T13:49:15.605666715+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-14T13:49:15.605705163+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-14T13:49:17.284446355+05:00","level":"ERROR","msg":"Error logging in user","error":"sql: no rows in result set"}
+{"time":"2024-08-14T13:49:17.284509436+05:00","level":"ERROR","msg":"Error logging in"}
+{"time":"2024-08-14T13:49:17.284541871+05:00","level":"ERROR","msg":"Error logging in","err":"sql: no rows in result set"}
+{"time":"2024-08-14T13:49:59.297865017+05:00","level":"INFO","msg":"Registered"}
+{"time":"2024-08-14T13:50:26.105790318+05:00","level":"INFO","msg":"Logged in"}

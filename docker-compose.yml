@@ -1,0 +1,42 @@
+services:
+  postgres-db:
+    image: postgres:16.3
+    container_name: postgres-db
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=1918
+      - POSTGRES_DB=car_auth
+    networks:
+      - ntwk
+    ports:
+      - "5434:5432"
+    volumes:
+      - ./databases/data:/ecommerce_auth/lib/postgresql/data
+  
+  migrate:
+    image: migrate/migrate
+    networks:
+      - ntwk
+    volumes:
+      - ./databases/migrations:/migrations
+    command: ["-path", "/migrations", "-database", "postgres://postgres:1918@postgres-db:5432/car_auth?sslmode=disable", "up"]
+    depends_on:
+      - postgres-db
+  
+  auth: 
+    build: .
+    container_name: auth-service
+    depends_on:
+      - postgres-db
+    ports:
+      - "8081:8081"
+    networks:
+      - ntwk
+
+networks:
+  ntwk:
+    external: true
+    name: car
+
+volumes:
+  db_data:

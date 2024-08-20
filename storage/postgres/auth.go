@@ -187,11 +187,12 @@ func (a AuthRepo) GetUserProfile(in *pb.Id) (*pb.UserProfileResponse, error) {
 
 func (a AuthRepo) UpdateUserProfile(in *pb.UpdateUserProfileRequest) (*pb.UserProfileResponse, error) {
 	var resp pb.UserProfileResponse
+	fmt.Println(in.Id)
 	err := a.DB.QueryRow(`
         UPDATE users 
         SET email=$1,
 		    password=$2,
-            first_name=$2,
+            first_name=$3,
             last_name=$4,
             phone_number=$5,
 			role=$6,
