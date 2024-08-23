@@ -33,7 +33,17 @@ jobs:
           key: ${{ secrets.SSH_KEY }
           port: ${{ secrets.PORT }
           script: |
-            cd /go/src/github.com/Imtihon3/Auth-Service
-            git pull
+            cd car-person/Car-Auth-Service/
+            git pull origin main
+            sudo docker compose down
+            sudo docker compose up -d
+
+            cd ../Car-Api-Gateway/
+            git pull origin main
+            sudo docker compose down
+            sudo docker compose up -d
+
+            cd ../Car-Booking-Service/
+            git pull origin main
             sudo docker compose down
             sudo docker compose up -d
