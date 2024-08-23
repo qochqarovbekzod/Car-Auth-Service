@@ -33,17 +33,17 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.PORT }}
           script: |
-            cd car-person/Car-Auth-Service/
+            cd car-person/Car-Auth-Service
             git pull origin main
             sudo docker compose down
             sudo docker compose up -d
 
-            cd ../Car-Api-Gateway/
+            cd ../Car-Api-Gateway
             git pull origin main
             sudo docker compose down
             sudo docker compose up -d
 
-            cd ../Car-Booking-Service/
+            cd ../Car-Booking-Service
             git pull origin main
             sudo docker compose down
             sudo docker compose up -d
