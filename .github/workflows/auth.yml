@@ -6,7 +6,7 @@ on:
      - main
 
 jobs:
- build:
+  build:
     runs-on: ubuntu-latest
 
     steps: 
@@ -18,21 +18,21 @@ jobs:
         with:
           go-version: '1.22.2'
 
-      - name: Install Deb
+      - name: Download Go Dependencies
         run: go mod download
-
 
       - name: Build
         run: go build -v ./...
 
       - name: Deploy
-        uses: appleboy/ssh-action@master
+        uses: appleboy/ssh-action@v0.1.7  # Use a specific version for stability
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.PORT }}
           script: |
+            set -e  # Exit on any error
             cd car-person/Car-Auth-Service
             git pull origin main
             sudo docker compose down
